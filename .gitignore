@@ -1,0 +1,45 @@
+# Environment variables
+.env
+*.env
+
+# Google Cloud credentials
+credentials.json
+*-credentials.json
+key.json
+gemini-projects-437509-e7dae6e002db.json
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+phonemes
+installer_output
+dist/
+build/
+installer_output/
+
+SinhalaTTS_Portable_v1.0.zip
+dist/SinhalaTTS.exe
+build/sinhala_tts/SinhalaTTS.pkg
+installer_output/SinhalaTTS_Setup_v1.0.exe

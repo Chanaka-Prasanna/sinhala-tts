@@ -1,0 +1,9 @@
+{
+  "sample_rate": "8000",
+  "word_pause": 1.0,
+  "sentence_pause": 1.2674418604651163,
+  "phonemes_dir": "phonemes",
+  "show_clusters": true,
+  "show_diacritics": true,
+  "show_phonetic": true
+}
